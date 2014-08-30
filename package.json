@@ -1,0 +1,19 @@
+{
+  "name": "TruWeb",
+  "version": "1.0.0",
+  "description": "TruWeb code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azonirunner/TruWeb.git"
+  },
+  "author": "mhickie@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azonirunner/TruWeb/issues"
+  },
+  "homepage": "https://github.com/azonirunner/TruWeb"
+}
